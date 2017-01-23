@@ -1,2 +1,2 @@
 # gittest
-This initial test went succesful
+This initial test went succesfull.
